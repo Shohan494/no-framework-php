@@ -1,0 +1,12 @@
+{
+    "name": "shohan494/noframeworkphp",
+    "description": "trying to follow tutorial on https://kevinsmith.io/modern-php-without-a-framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "shohan494",
+            "email": "shohan12224943@gmail.com"
+        }
+    ],
+    "require": {}
+}
