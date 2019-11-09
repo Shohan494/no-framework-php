@@ -1,3 +1,9 @@
+<?php
+
+declare(strict_types=1);
+
+namespace ExampleApp;
+
 class AwesomeClass
 {
     private $dbConnection;
